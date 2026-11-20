@@ -14,4 +14,5 @@ Steps for reproduction:
 
 
 AI Statement:
-We used AI to generate our comparison scrips as well as help us fix them.
+We used AI to create our p_value comparison script, as well as a bash script for running the PMD and the designitejava.jar.
+AI was also used for troubleshooting problems.
