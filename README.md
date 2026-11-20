@@ -14,5 +14,13 @@ Steps for reproduction:
 
 
 AI Statement:
-We used AI to create our p_value comparison script, as well as a bash script for running the PMD and the designitejava.jar.
+We used AI to create our p_value comparison script as well as a bash script for running the PMD and the designitejava.jar.
 AI was also used for troubleshooting problems.
+
+Prompts used:
+
+"We are doing a project where we need to compare static analysis warnings and architectural smells using p-value comparison. Write a script that runs PMD and Designite and compares their outputs using p-value analysis, reading project names from a file named projectList.txt"
+"🔍 Running PMD analysis with rulesets:" (error output)
+"================ [COMBINED SYSTEM-WIDE GLOBAL Analysis] ================" (incorrect results output)
+
+We also asked if a different method would improve our output :"What would be a better way of checking the correlation bettween architectural smells and warnings than using PMD and DesigniteJava"
