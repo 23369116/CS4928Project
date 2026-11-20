@@ -7,8 +7,8 @@ Steps for reproduction:
     3. Download the DesigniteAndPMDRunFinal.sh and P_valueCalculationFinal.py (found in this repository)
    
        -Download the PMD:
-             1. Which can now be found:https://sourceforge.net/projects/pmd/files/pmd/6.3.0/
-             2. Link the pmd.run file to where you have that downloaded
+                 1. found:https://sourceforge.net/projects/pmd/files/pmd/6.3.0/
+                 2. Link the pmd.run file to where you have that downloaded
 4. Now Run the DesigniteAndPMDRunFinal.sh
 
 
