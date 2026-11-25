@@ -13,7 +13,9 @@ After running our earlier setup on the Java project Freemind from the dataset, w
 This value is also statistically insignificant, yet it is higher than M2 and shows a higher correlation between architectural smells and static analysis warnings than M2.
 
 ## M4
+M4 consisted of reaching out to another group for a Cross team review, in which we communicated to group 23 under Evidence Traceability that we believed that they needed no changes as their explanation of AI being unable to replicate human behaviour and technical ability felt reasonable to us.
 
+We received a review from Group 20 who also specified that no change was required on our end, which we accepted.
 
 ## Event B 
 Event B involved adding a new dependency across modules in a selected Java project and re-running our analysis to see if the correlation between smells and warnings changed.
