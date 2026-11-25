@@ -12,12 +12,15 @@ After running our earlier setup on the Java project Freemind from the dataset, w
 
 This value is also statistically insignificant, yet it is higher than M2 and shows a higher correlation between architectural smells and static analysis warnings than M2.
 
-## M4 
-M4 involved adding a new dependency across modules in a selected Java project and re-running our analysis to see if the correlation between smells and warnings changed.
+## M4
+
+
+## Event B 
+Event B involved adding a new dependency across modules in a selected Java project and re-running our analysis to see if the correlation between smells and warnings changed.
 
 Our results indicate a somewhat statistically significant p-value correlation of 0.087979.
 
 This shows that the added dependencies increased the correlation between architectural smells and static analysis warnings compared to the previous analysis without said dependencies, adding credence to the idea that the relationship strengthens depending on code smells, despite our low interpretation value.
 
-## Event B (multi-file examples)
+
 
